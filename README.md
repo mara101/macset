@@ -10,7 +10,7 @@ macset is a command-line tool for changing the MAC (Media Access Control) addres
 ## Installation
 
 To install macset, clone the repository and build the source code:
-git clone https://github.com/YOUR_USERNAME/macset.git
+git clone https://github.com/mara101/macset.git
 
 
 ## Usage
